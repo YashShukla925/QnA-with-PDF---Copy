@@ -85,8 +85,6 @@ docker-compose up --build
 # 🚀 Setup and Installation
 
 # 1. Clone the Repository
-git clone https://github.com/yourusername/rag-docqa.git
-cd rag-docqa
 
 # 2. Create and Activate a Virtual Environment
 # For Linux/macOS:
