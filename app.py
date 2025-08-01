@@ -1,12 +1,15 @@
 import streamlit as st
 import requests
+import os
 
 st.set_page_config("Chat with Documents")
 st.title("💬 Chat with Your PDFs")
 
 # API_URL = "http://localhost:8000"
-# API_URL = "http://localhost:8000"
-API_URL = "http://backend:8000"
+API_URL = "https://rag-projects.onrender.com/"
+# API_URL = "http://backend:8000"
+# API_URL = os.getenv("API_URL", "https://rag-projects.onrender.com/")
+
 
 
 

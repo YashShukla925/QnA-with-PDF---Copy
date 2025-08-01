@@ -68,3 +68,4 @@ def answer_query(question):
 
     response = chain({"input_documents": docs, "question": question}, return_only_outputs=True)
     return response["output_text"]
+

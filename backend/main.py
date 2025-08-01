@@ -105,3 +105,4 @@ def query_docs(question: str):
 @app.get("/metadata/")
 def get_docs_metadata():
     return get_metadata()
+    

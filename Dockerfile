@@ -13,3 +13,4 @@ COPY . .
 
 # Default command (can be overridden in docker-compose)
 CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
+
