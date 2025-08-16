@@ -12,7 +12,7 @@ services:
     environment:
       - GOOGLE_API_KEY=${GOOGLE_API_KEY}
     env_file:
-      - .env
+      - .env   
 
   frontend:
     image: python:3.10-slim

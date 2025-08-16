@@ -15,7 +15,7 @@ The system is fully **containerized with Docker** and can be deployed in both **
 - REST API endpoints for upload, query, and metadata
 - Dockerized setup for easy local/cloud deployment
 
----
+---  
 
 ## 🧰 Tech Stack
 
