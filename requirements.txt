@@ -9,3 +9,6 @@ langchain-community
 fastapi
 uvicorn
 python-multipart
+gunicorn 
+uvicorn
+
