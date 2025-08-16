@@ -4,12 +4,11 @@ python-dotenv
 langchain
 PyPDF2
 faiss-cpu
-langchain-google-genai==0.0.19
-langchain-community==0.0.205
+langchain-google-genai
+langchain-community
 fastapi
 uvicorn
 python-multipart
 gunicorn
 PyMuPDF
 requests
-googletrans
