@@ -4,8 +4,8 @@ import requests
 st.set_page_config("Chat with Documents")
 st.title("💬 Multilingual PDF QA")
 
-# API_URL = "http://localhost:8000"
-API_URL = "https://qna-with-pdf-copy-1.onrender.com"
+API_URL = "http://localhost:8000"
+# API_URL = "https://qna-with-pdf-copy-1.onrender.com"
 
 # Sidebar for uploading PDFs
 with st.sidebar:
