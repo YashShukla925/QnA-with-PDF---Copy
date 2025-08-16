@@ -11,4 +11,5 @@ uvicorn
 python-multipart
 gunicorn 
 uvicorn
+fitz
 
